@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Agustin!</h1>
 
-<h4 align="center">I'm a Mechanical Engineer, and currently working as a Research Engineer at the Artificial Intelligence and Robotics Laboratory from the University of San Andrés </h4>
+<h4 align="center">I'm a Mechanical Engineer, and currently working as a Machine Learning Engineer </h4>
 
 
 <br>
